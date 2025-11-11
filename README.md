@@ -1,5 +1,9 @@
 ## Hi there 👋
+I am an amateur coder, intermediate bass clarinetist, and student, currently in the Minneapolis, MN metro area.
 
+I am not well versed in code at all, and I only learned how to code up patches for a game I play because I liked the game enough to learn coding.
+
+I am a Linux user (Ubuntu with KDE, ver. 25.10), and prefer everything to be free/open source when available.
 <!--
 **1273million/1273million** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
