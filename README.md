@@ -5,7 +5,7 @@ I am not well versed in code at all, and I only learned how to code up patches f
 
 I am a Linux user (Ubuntu with KDE, ver. 25.10), and prefer everything to be free/open source when available.
 
-** I AM NOT A PROFESSIONAL SOFTWARE ENGINEER! ** 
+**I AM *NOT* A PROFESSIONAL SOFTWARE ENGINEER!** 
 
 I can be reached by [my Gmail account](mailto://1273million@gmail.com), and that's pretty much it.
 <!--
